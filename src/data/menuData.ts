@@ -1,9 +1,13 @@
 import { SpiceLevel, MenuItem, Topping, BusinessTier } from '../types';
+import heroImg from '../assets/images/hero_korean_spicy_noodle_1791770779533.jpg';
+import seafoodImg from '../assets/images/menu_seafood_spicy_noodle_1791770793497.jpg';
+import beefCheeseImg from '../assets/images/menu_beef_cheese_noodle_1791770807145.jpg';
+import interiorImg from '../assets/images/restaurant_franchise_interior_1791770819150.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/hero_korean_spicy_noodle_1791770779533.jpg';
-export const SEAFOOD_IMAGE = '/src/assets/images/menu_seafood_spicy_noodle_1791770793497.jpg';
-export const BEEF_CHEESE_IMAGE = '/src/assets/images/menu_beef_cheese_noodle_1791770807145.jpg';
-export const RESTAURANT_INTERIOR_IMAGE = '/src/assets/images/restaurant_franchise_interior_1791770819150.jpg';
+export const HERO_IMAGE = heroImg;
+export const SEAFOOD_IMAGE = seafoodImg;
+export const BEEF_CHEESE_IMAGE = beefCheeseImg;
+export const RESTAURANT_INTERIOR_IMAGE = interiorImg;
 
 export const SPICE_LEVELS: SpiceLevel[] = [
   {
