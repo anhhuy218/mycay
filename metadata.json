@@ -1,0 +1,6 @@
+{
+  "name": "Mì Cay 7 Cấp Độ - Mô Hình Kinh Doanh & Đặt Món",
+  "description": "Nền tảng mô hình kinh doanh nhượng quyền mì cay 7 cấp độ Hàn Quốc, thực đơn gọi món trực tuyến và công cụ tính toán tài chính F&B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
